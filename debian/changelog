@@ -1,0 +1,8 @@
+ros-foxy-maliput-full (0.1.0-1focal) focal; urgency=high
+
+  * Adds maliput_full meta package. (#280 <https://github.com/maliput/maliput_infrastructure/issues/280>)
+  * Contributors: Franco Cipollone
+
+ -- Daniel Stonier <daniel.stonier@tri.global>  Thu, 14 Jul 2022 03:00:00 -0000
+
+
